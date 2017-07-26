@@ -1,0 +1,14 @@
+bin\Debug\GridExtensions.dll
+bin\Debug\GridExtensions.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+bin\Debug\lomasMaza.exe
+bin\Debug\lomasMaza.pdb
+bin\Debug\lomasMaza.xml
+obj\Debug\lomasMaza.frmBase.resources
+obj\Debug\lomasMaza.frmBienvenida.resources
+obj\Debug\lomasMaza.MDIPrincipal.resources
+obj\Debug\lomasMaza.Resources.resources
+obj\Debug\lomasMaza.exe
+obj\Debug\lomasMaza.xml
+obj\Debug\lomasMaza.pdb

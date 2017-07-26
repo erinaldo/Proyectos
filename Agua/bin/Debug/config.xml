@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config_Table>
+<config>
+  <servidor>192.168.0.105\SQLEXPRESS</servidor>
+  <bd>Agua</bd>
+</config>
+</config_Table>
